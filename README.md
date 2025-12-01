@@ -47,3 +47,9 @@
 - Visualise the MSE
 - Pitfalls of the Gradient Descent
 - Extra
+
+<h2 align='center'>Tools used</h2>
+
+- Google Colab
+- Microsoft Whiteboard
+- OBS
